@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theordus
-  - 👀 I’m interested in ...Python Projects
-- 🌱 I’m currently learning ...python and databases
-- 💞️ I’m looking to collaborate on ...Web Development Projects
+  - 👀 I’m interested in ...DevOps, MLOps, AIOps
+- 🌱 I’m currently learning ...Cloud & DevOps 
+- 💞️ I’m looking to collaborate on ...Cloud & DevOps related Projects
 - 📫 How to reach me ...through email=vdaditya57@gmail.com
 
 <!---

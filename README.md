@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theordus
+- 👋 Hi, I’m @adityavd
   - 👀 I’m interested in ...DevOps & MLOps
 - 🌱 I’m currently learning ...Cloud & DevOps 
 - 💞️ I’m looking to collaborate on ...Cloud & DevOps related Projects
